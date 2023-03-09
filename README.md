@@ -1,4 +1,4 @@
-# Paul Graham GPT
+# Bittensor GPT
 
 AI-powered search and chat for [Paul Graham's](https://twitter.com/paulg) [essays](http://www.paulgraham.com/articles.html).
 
