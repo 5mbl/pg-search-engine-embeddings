@@ -59,7 +59,6 @@ export default function Home() {
 
     return results;
   };
-  
 
   const handleAnswer = async () => {
     if (!apiKey) {
